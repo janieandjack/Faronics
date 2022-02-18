@@ -5,4 +5,4 @@ If (!(test-path $path))
     md $path
 }
 
-Invoke-WebRequest https://raw.githubusercontent.com/janieandjack/Faronics/main/credmanager.bat -Outfile c:\Temp\credmanager.bat
+Invoke-WebRequest https://raw.githubusercontent.com/janieandjack/Faronics/main/CredManager.bat -Outfile c:\Temp\credmanager.bat
