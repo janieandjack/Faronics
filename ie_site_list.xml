@@ -1,0 +1,27 @@
+<site-list version="2">
+<created-by>
+<tool>EMIESiteListManager</tool>
+<version>12.0.0.0</version>
+<date-created>05/26/2021 18:39:18</date-created>
+</created-by> 
+<site url="CORPMFS21">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site> 
+<site url="CORPQT21">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+<site url="CORPVC21">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+<site url="CORPMOM1">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+<site url="CORPPDM20">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+</site-list>
